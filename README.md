@@ -10,12 +10,12 @@
 
 
 **Una vez puesto el package.json ejecuta el siguiente comando en vez de los que apareden en tu Training**
-``
+```
     npm install
-``
+```
 
 1. Remplaza el archivo **index.js** por el contenido de **index1.js** y prueba al funcionamiento con la herramienta Bot Framework Emulator
-2. Después haz lo mismo con el archivo **index.js** remplazando solo el contenido
+2. Después haz lo mismo con el archivo **index2.js** remplazando solo el contenido
 
 ### Links
 * [Clase en vivo de bots](https://web.microsoftstream.com/video/70b68d6e-4752-457b-9c38-c7b57d5c6c36)
